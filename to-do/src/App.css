@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.row-container {
+  margin: 10px 5px;
+}
+.todo-btn {
+  min-width: 70px;
+  padding: 5px;
+}
